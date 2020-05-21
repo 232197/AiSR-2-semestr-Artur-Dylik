@@ -1,0 +1,6 @@
+imię: Artur
+nazwisko: Dylik
+numer allbumu: 232197
+e-mail 232197@edu.p.lodz.pl
+tryb studiów: niestacjonarne
+grupa 2AiSR1
